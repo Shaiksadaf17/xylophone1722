@@ -6,15 +6,17 @@
 //
 
 import UIKit
+import AVFoundation
 
-class ViewController: UIViewController {
-
+class ViewController: UIViewController, AVAudioPlayerDelegate{
+    var player: AVAudioPlayer!
+    var soundsArray = ["A","C","B","F","G","E","D"]
     override func viewDidLoad() {
-        print("sadaf")
+        
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        
     }
-
-
-}
-
+    
+    @IBAction func keyPressed(_ sender: UIButton) {
+        var selectSOund = soundsArray[(sender.tag)]
+        playingSOund
