@@ -11,7 +11,8 @@ Welcome to the Xylophone app! This engaging and musical iOS app allows users to 
 
 ## Screenshots 📸
 
-->
+<img width="1440" alt="Untitled 2" src="https://github.com/Shaiksadaf17/xylophone1722/assets/121873557/baf9f81b-e673-4a2d-b8ba-761d7fb04078">
+
 
 ## App Logo 🎨
 
