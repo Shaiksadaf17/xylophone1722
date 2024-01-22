@@ -11,11 +11,11 @@ Welcome to the Xylophone app! This engaging and musical iOS app allows users to 
 
 ## Screenshots 📸
 
-<!-- Add screenshots here if available -->
+->
 
 ## App Logo 🎨
 
-![Xylophone App Logo](path/to/logo/image.png)
+![1024](https://github.com/Shaiksadaf17/xylophone1722/assets/121873557/a64ba863-6cba-4ca6-aabe-b6b7a8d9e2dd)
 
 
 
